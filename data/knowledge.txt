@@ -1,0 +1,11 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of AI that allows computers to learn from data.
+
+Python is a popular programming language used in AI, machine learning, and web development.
+
+Docker is a platform used to create, deploy, and run applications using containers.
+
+Qdrant is a vector database used for similarity search and storing embeddings.
+
+Streamlit is a Python framework used to build interactive web applications for data science and AI.
